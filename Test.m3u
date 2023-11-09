@@ -9,3 +9,121 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 ,CNN INT
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,ABC WEST
+http://23.237.100.82:8000/ABC_WEST/manifest.m3u8
+#EXTINF:-1 ,ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 ,ADVENTURE EARTH
+https://autentic-adventure-earth-1-fi.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,AMC Thrillers
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1 ,AMC Movie
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1 ,Animal Planet
+http://45.88.92.3:80/tr3_AnimalPlanet_HD/index.m3u8?token=test
+#EXTINF:-1 ,BBC NEWS
+http://190.171.101.36/BBC/tracks-v4a1/mono.m3u8
+#EXTINF:-1 ,beIN Sports XTRA
+https://bein-xtra-bein.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 ,Boxing TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
+#EXTINF:-1 ,CBS NEWS
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 ,CBS News Los Angeles
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1 ,CBS News Texas
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:-1 ,CGTN ENG
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 ,CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 ,CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 ,CNBC
+http://23.237.98.42:8080/USA_CNBC/index.m3u8
+#EXTINF:-1 ,Discovery
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Investigation Discovery US
+http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q&checkedby:iptvcat.com
+#EXTINF:-1 ,DW
+http://213.254.12.7:80/DWEnglish/mono.m3u8
+#EXTINF:-1 ,EDGE Sport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,ENCORE
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/encore/master.m3u8
+#EXTINF:-1 ,FIFA
+https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 ,Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 ,Harley Davidson TV
+https://hdtv.prod2.ioio.tv/broker/manifests/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9/1080/4423680.m3u8
+#EXTINF:-1 ,HBO
+http://41.205.93.154/HBO/index.m3u8
+#EXTINF:-1 ,HBO SIG
+http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+#EXTINF:-1 ,History Hit
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Law & Crime
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+#EXTINF:-1 ,MOVIE SPHERE 1
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1 ,MOVIE SPHERE 2
+https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 ,Mr.Bean
+http://51.159.104.29:8080/mrbean/index.m3u8
+#EXTINF:-1 ,MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 ,National Geographic TW
+http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
+#EXTINF:-1 ,National Geographic Wild
+http://50.7.137.106:8080/NAT_GEO_WILD/index.m3u8?token=test
+#EXTINF:-1 ,NBC
+http://41.205.93.154/NBC/index.m3u8
+#EXTINF:-1 ,NHK WORLD JAPAN
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 ,Nickelodeon1
+http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 ,Rakuten Action
+http://rakuten-action-8-nl.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 ,Nickelodeon2
+http://198.16.100.90:8278/Nickelodeon/playlist.m3u8?tid=MBBB9174743591747435&ct=19249&tsum=9901089db6361b9cafc0ab9de5612bee
+#EXTINF:-1 ,Rakuten Comedy
+http://rakuten-comedy-8-nl.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 ,Rakuten Drama
+http://rakuten-drama-8-nl.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 ,Rakuten Family
+http://rakuten-family-8-nl.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 ,Rakuten Romance
+http://rakuten-romance-8-nl.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 ,Rakuten TV Action Movies
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Rakuten TV Comedy Movies
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Rakuten TV Family
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Real Stories
+https://realstories-samsung-uk.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 ,Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 ,Sports
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 ,SUNDANCE TV
+https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 ,TBS
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 ,TRACE Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 ,Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 ,Wild Planet
+https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
+
+
+#EXTINF:-1 ,TBS
+
+
+
+
+
